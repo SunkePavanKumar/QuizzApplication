@@ -23,7 +23,7 @@ function App() {
   }, []);
 
   return (
-    <div className=" w-[50%] ml-[25%] mr-[25%] bg-slate-200 rounded-r-sm px-7 py-2 h-auto">
+    <div className=" md:w-[50%] md:ml-[25%] md:mr-[25%] bg-slate-200 rounded-r-sm px-7 py-2 h-auto">
       <h1 className=" text-center text-3xl mt-3 mb-4 font-sans font-bold text-blue-400">
         Quizz App
       </h1>
